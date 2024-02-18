@@ -6,3 +6,4 @@ For signature I have to download stamp from the google and tilt it by rotate and
 I learn the basic things that , how to minimize the line of code and also learn to make the receipt.
 # Receipt
 This is sample receipt of RTC.
+[Receipt](./img/receiptoutput.png)
